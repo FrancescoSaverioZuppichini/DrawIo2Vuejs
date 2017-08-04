@@ -8,7 +8,4 @@ Open your shell and type, be sure to have npm installed.
 npm i -g graph2app-drawio2vuejs
 ```
 ##Quick Start
-Go to https://www.draw.io/ create a new file. Select **Object** in the *UML* tab on the left. They represents node in the graph. 
-
-Create the root, in our case it is called *App*.
-
+Wiki is coming soon! In the mean time you can read the medium article:
