@@ -1,0 +1,23 @@
+{
+  "name": "graph2app-drawio2vuejs",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  },
+  "bin": {
+    "drawio2vuejs": "index.js"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graph2app-core": "^0.0.3",
+    "graph2app-drawio-graph-builder": "^0.0.2",
+    "graph2app-vue-core": "^0.0.4"
+  }
+}
