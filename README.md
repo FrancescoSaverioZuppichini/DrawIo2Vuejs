@@ -2,7 +2,7 @@
 
 ### A faster way to build web-app by using draw.io to draw your Vuejs app
 
-###Installation
+## Installation
 
 ```
 $ npm i -g graph2app-drawio2vuejs
