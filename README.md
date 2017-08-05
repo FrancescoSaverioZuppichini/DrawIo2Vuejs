@@ -12,3 +12,5 @@ $ npm i -g graph2app-drawio2vuejs
 
 Wiki is coming soon!
 In the mean time you can read the medium article:
+
+https://medium.com/@FrancescoZ/from-draw-io-to-vue-js-app-c0f84ede8383
