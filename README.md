@@ -17,4 +17,4 @@ https://medium.com/@FrancescoZ/from-draw-io-to-vue-js-app-c0f84ede8383
 
 Or watch this little demo:
 
-https://youtu.be/ktnOmnHjDns
+https://www.youtube.com/watch?v=ktnOmnHjDns&feature=youtu.be
