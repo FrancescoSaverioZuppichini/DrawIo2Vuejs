@@ -8,9 +8,9 @@
 $ npm i -g graph2app-drawio2vuejs
 ```
 
-## Before Start
+## Before starting
 
-Before start you can read the medium article for a step by step guide:
+Before starting you can read the medium article for a step by step guide:
 
 https://medium.com/@FrancescoZ/from-draw-io-to-vue-js-app-c0f84ede8383
 
@@ -18,7 +18,7 @@ Or watch this little demo:
 
 https://www.youtube.com/watch?v=ktnOmnHjDns&feature=youtu.be
 
-## Quick Start
+## Quick start
 Go to [draw.io](https://www.draw.io) create a new file and use the UML objects in order to create your components tree. Be aware, use only the labelled as an **object** (the fist one).
 ![alt text](https://github.com/FrancescoSaverioZuppichini/drawIoToVuejs/blob/master/images/object.png?raw=true)
 
